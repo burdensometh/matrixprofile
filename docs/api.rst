@@ -32,6 +32,26 @@ matrixprofile.preprocess.add_noise_to_series
 
 .. autofunction:: matrixprofile.preprocess.add_noise_to_series
 
+matrixprofile.revision.revise
+=============================
+
+.. autofunction:: matrixprofile.revision.revise
+
+matrixprofile.revision.revision_history
+=======================================
+
+.. autofunction:: matrixprofile.revision.revision_history
+
+matrixprofile.revision.is_stale
+===============================
+
+.. autofunction:: matrixprofile.revision.is_stale
+
+matrixprofile.revision.distance_profile_at
+==========================================
+
+.. autofunction:: matrixprofile.revision.distance_profile_at
+
 matrixprofile.discover.motifs
 =============================
 
